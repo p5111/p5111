@@ -5,7 +5,7 @@
 - 🤔 I’m a student and seeking an in-depth internship at Ml
 - 💬 Ask me about aything which relates to Machine Learning
 - 📫 How to reach me: ...
-⚡ Fun fact: Using innovative technology and machine learning to help businesses expand and address pressing issues
+- ⚡ Fun fact: Using innovative technology and machine learning to help businesses expand and address pressing issues
 
 <!--
 **p5111/p5111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
