@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I am a Student at IIITM
 - 🔭 I’m currently working on Machine Learning and System Design
 - 🌱 ML and NLP-related projects are what I'm working on right now.
 - 👯 I’m looking to work with real life problem solutions through ML at compaines
