@@ -19,5 +19,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about aything which relates to Machine Learning
 - 📫 How to reach me: ...
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: Using innovative technology and machine learning to help businesses expand and address pressing issues
+- ⚡ Fun fact: Using innovative technology and machine learning to address pressing issues
 -->
