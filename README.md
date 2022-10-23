@@ -20,5 +20,6 @@ I am student at IIITM
 - 💬 Ask me about aything which relates to Machine Learning
 - 📫 How to reach me: ...
 - ⚡ Fun fact: Using innovative technology and machine learning to help businesses expand and address pressing issues
-
+Machine Learning |  Python | Tech Content creater | Open to work as Intern | 
+ IIITM | I'm constantly upbeat and excited to pick up new abilities
 -->
