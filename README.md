@@ -12,13 +12,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: Using innovative technology and machine learning to address pressing issues
-I am student at IIITM
-- 🔭 I’m currently working on Machine Learning and System Design
-- 🌱 ML and NLP-related projects are what I'm working on right now.
-- 👯 I’m looking to work with real life problem solutions through ML at compaines
-- 🤔 I’m a student and seeking an in-depth internship at Ml
-- 💬 Ask me about aything which relates to Machine Learning
-- 📫 How to reach me: ...
-- ⚡ Fun fact: Using innovative technology and machine learning to help businesses expand and address pressing issues
-Machine Learning |  Python | Tech Content creater | Open to work as Intern | 
- IIITM | I'm constantly upbeat and excited to pick up new abilities
+  
+
