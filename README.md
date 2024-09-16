@@ -1,5 +1,5 @@
 ### Hi there 👋
-<!--
+
 **p5111/p5111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -22,4 +22,3 @@ I am student at IIITM
 - ⚡ Fun fact: Using innovative technology and machine learning to help businesses expand and address pressing issues
 Machine Learning |  Python | Tech Content creater | Open to work as Intern | 
  IIITM | I'm constantly upbeat and excited to pick up new abilities
--->
